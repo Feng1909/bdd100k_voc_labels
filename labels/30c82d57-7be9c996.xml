@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><annotation> <filename>30c82d57-7be9c996.jpg</filename> <object>  <name>car</name>  <bndbox>   <xmin>61</xmin>   <ymin>326</ymin>   <xmax>88</xmax>   <ymax>345</ymax>  </bndbox> </object></annotation>

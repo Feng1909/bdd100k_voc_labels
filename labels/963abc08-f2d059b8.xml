@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><annotation> <filename>963abc08-f2d059b8.jpg</filename> <object>  <name>traffic sign</name>  <bndbox>   <xmin>369</xmin>   <ymin>215</ymin>   <xmax>393</xmax>   <ymax>244</ymax>  </bndbox> </object></annotation>

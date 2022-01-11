@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><annotation> <filename>7afd081d-1916daef.jpg</filename> <object>  <name>traffic light</name>  <bndbox>   <xmin>945</xmin>   <ymin>228</ymin>   <xmax>967</xmax>   <ymax>250</ymax>  </bndbox> </object></annotation>
